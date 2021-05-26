@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Museo;
+    src: url("../fonts/MuseoSans_500.otf") format("opentype");
+}
+
+.nav-link {
+    color: #001632;
+    font-family: Museo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
+a.nav-link:hover{
+    color: #058286 !important
+}
+.btn-outline-primary{
+    
+}
+
+
+body{
+    background: linear-gradient(0deg, #EFFFF9, #EFFFF9), linear-gradient(90deg, rgba(242, 253, 249, 0.7) 0%, rgba(224, 247, 241, 0.7) 100%);
+backdrop-filter: blur(100px);
+}

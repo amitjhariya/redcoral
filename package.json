@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
     "next": "^9.5.2",
     "nprogress": "^0.2.0",
     "react": "^16.13.1",
